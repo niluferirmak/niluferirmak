@@ -9,6 +9,10 @@
 - Photography as a hobby
 
 
+## Projects 💻
+
+<a href="https://github.com/niluferirmak/Password-strength-checker">Password Checker</a>
+
 <!--
 
 ## projects(when you upload projects to github update this one)
