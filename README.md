@@ -11,7 +11,9 @@
 
 ## Projects 💻
 
-<a href="https://github.com/niluferirmak/Password-strength-checker">Password Checker</a>
+- <a href="https://github.com/niluferirmak/Password-strength-checker">Password Checker</a>
+
+- <a href="https://github.com/niluferirmak/Simple-port-scanner">Port Scanner</a>
 
 <!--
 
