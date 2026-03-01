@@ -21,7 +21,9 @@
 
 - <a href="https://github.com/niluferirmak/Secure-Network-Topology-ACL">Secure Network Topology ACL</a>
 
-- <a href="https://github.com/niluferirmak/Enterprise-Network-Hardening">Enterprise Network Hardening
+- <a href="https://github.com/niluferirmak/Enterprise-Network-Hardening">Enterprise Network Hardening</a>
+
+- <a href="https://github.com/niluferirmak/Segmented-Enterprise-Network-Security">Segmented Enterprise Network Security</a>
 
 <!--
 
